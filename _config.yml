@@ -18,9 +18,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 
 #sidebar links
 email: s72682@htw-dresden.de
-phone: XXX
 website: saritus.github.io #do not add http://
 github: Saritus
-twitter: '@KingSeb33'
 
 #Update all the sections by editing the files inside _includes folder.
