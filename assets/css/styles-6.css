@@ -42,7 +42,7 @@ a:focus {
 p {
   line-height: 1.5;
 }
-.details {
+.details .summary {
   text-align: justify;
 }
 .wrapper {
