@@ -42,6 +42,9 @@ a:focus {
 p {
   line-height: 1.5;
 }
+.details {
+  text-align: justify;
+}
 .wrapper {
   background: #4B6A78;
   max-width: 960px;
